@@ -1,0 +1,8 @@
+{
+    "name": "my/project",
+    "description": "my project",
+    "require" : {
+        "symfony/twig-bundle" : "^3.0",
+        "symfony/framework-bundle" : "^2.8"
+    }
+}
